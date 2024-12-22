@@ -1,0 +1,1 @@
+(((Canis_lupus_familiaris:0.1,Canis_latrans:0.1):0.2,Vulpes_lagopus:0.3):0.4, ((Felis_catus:0.1,Felis_chaus:0.1):0.2,((Mus_musculus:0.15,Rattus_norvegicus:0.15):0.25, ((Ursus_arctos:0.2,Ursus_maritimus:0.2):0.3,Homo_sapiens:0.5):0.4):0.3):0.5);
